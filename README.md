@@ -1,2 +1,2 @@
 # sample-api-guide
-this is the sample api document.
+This is the sample api document.
